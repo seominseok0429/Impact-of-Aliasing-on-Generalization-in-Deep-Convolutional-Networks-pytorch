@@ -6,7 +6,6 @@
 
     [ImageNet-1K](https://www.kaggle.com/c/imagenet-object-localization-challenge/data)
 
-/IMAGENET/ILSVRC/Data/CLS-LOC/
 * Directory tree
  ```
     DATA/
