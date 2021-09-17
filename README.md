@@ -31,3 +31,7 @@ python main.py
 ```
 python main.py --r
 ```
+
+## Acknowledgment
+
+This code is heavily borrowed from [Making Convolutional Networks Shift-Invariant Again](https://github.com/adobe/antialiased-cnns).
